@@ -1,16 +1,16 @@
 # Fdb version 4
-["biber report"] 0 "report.bcf" "report.bbl" "report" 1763398027.86498 0
+["biber report"] 0 "report.bcf" "report.bbl" "report" 1763493455.22264 0
   "biblio.bib" 0 -1 0 ""
   "report.bcf" 0 -1 0 "pdflatex"
   (generated)
   "report.bbl"
   "report.blg"
   (rewritten before read)
-["pdflatex"] 1763398022.95079 "e:/masterUI7/MV/mv-lab1/report/report.tex" "report.pdf" "report" 1763398027.8657 0
-  "01-theoretical.aux" 1763398024 6757 fa50f10c6bc3e7b7e2263b75d4b3d40a "pdflatex"
-  "01-theoretical.tex" 1763397489 9013 4ccdb49bd02e9b4cbc15a7654cef1984 ""
-  "02-practical.aux" 1763398027 6977 e8b422ab3539e68cfaee28fd668c0111 "pdflatex"
-  "02-practical.tex" 1763397963 16128 6a292bd13a85b2fec036a5958dc041b4 ""
+["pdflatex"] 1763493450.44724 "e:/masterUI7/MV/mv-lab1/report/report.tex" "report.pdf" "report" 1763493455.22328 0
+  "01-theoretical.aux" 1763493452 6722 3fc3fb233139ff9dd036abf8bbfc9fc2 "pdflatex"
+  "01-theoretical.tex" 1763493445 9062 8ae1c4f3ba188a009d2c0e0788ec6ba5 ""
+  "02-practical.aux" 1763493454 6974 0468db96e26786301cfa4e8a4dda0d78 "pdflatex"
+  "02-practical.tex" 1763493281 16126 e3f4e892edadda4d8c055552eab81025 ""
   "C:/Users/ordum/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1760389705 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/ordum/AppData/Local/MiKTeX/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1440.pk" 1760270861 36852 1c2ed2b4960a44813164b056288ffd50 ""
   "C:/Users/ordum/AppData/Local/MiKTeX/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1728.pk" 1760270266 45168 96934b339683a81d2cc8308b824a7245 ""
@@ -320,14 +320,14 @@
   "C:/Users/ordum/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "C:/Users/ordum/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
   "e:/masterUI7/MV/mv-lab1/report/report.tex" 1760988088 1355 859f0960cbbe43f468c749c1b931f0ac ""
-  "inc/img/scheme.png" 1763397251 74624 69061ee2df857acb51e2b93b627109f9 ""
+  "inc/img/Алгоритм.png" 1763493177 217606 da57f5b1d1dacc4e1d2935b2b40ab3ef ""
   "inc/lst/mv_lab1.m" 1763398022 9113 8871e75bcd26d5ee8a1532c96cddc2df ""
   "inc/lst/out_max.m" 1763397961 2187 f6f82a3e30ec5db3bf4f6f979a9b5bf1 ""
   "inc/lst/out_min.m" 1763397868 1946 98f5dda2a937aa6d61700e6834e1a491 ""
-  "report.aux" 1763398027 765 405db577289c82bf50c5bc0bcd739bb4 "pdflatex"
+  "report.aux" 1763493454 765 09394ca905728d26d1b0cdee571c2f1d "pdflatex"
   "report.bbl" 1761075706 486 76d65a242ec496c9b4361af646ff12cb "biber report"
-  "report.out" 1763398027 2554 8828782f03d63e6cf354c13fc2ab0a46 "pdflatex"
-  "report.run.xml" 1763398027 2579 c4b4ac403ae2a1185df98d7ee7d2086e "pdflatex"
+  "report.out" 1763493454 2538 6e81fb637a9f284ff07017c9e3e0f5c6 "pdflatex"
+  "report.run.xml" 1763493454 2579 c4b4ac403ae2a1185df98d7ee7d2086e "pdflatex"
   "report.tex" 1760988088 1355 859f0960cbbe43f468c749c1b931f0ac ""
   (generated)
   "01-theoretical.aux"
